@@ -7,33 +7,9 @@
   "ascent": 850,
   "glyphs": [
     {
-      "uid": "531359183f9fedb14b23666f1308591f",
-      "css": "telegram",
-      "code": 62150,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "9d3e9faf68fd4e12def853f0d4e1173b",
-      "css": "whatsapp",
-      "code": 62002,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "bf882b30900da12fca090d9796bc3030",
-      "css": "mail",
-      "code": 59392,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
-      "css": "instagram",
-      "code": 61805,
-      "src": "fontawesome"
-    },
-    {
-      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
-      "css": "linkedin",
-      "code": 61665,
+      "uid": "3fce1eca43f917c8f23e532749abae5d",
+      "css": "user-circle-o",
+      "code": 62142,
       "src": "fontawesome"
     },
     {
@@ -46,6 +22,18 @@
       "uid": "f7dff44258aa565cbe35565be350b58d",
       "css": "xing-squared",
       "code": 61801,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e9107949dd6c9e8ab2b29ae07156e38c",
+      "css": "linkedin",
+      "code": 61665,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "bf882b30900da12fca090d9796bc3030",
+      "css": "mail",
+      "code": 59392,
       "src": "fontawesome"
     }
   ]

@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 
 var typed = new Typed(".typing", {
-    strings: ["Magram", "frontend entwickler",],
+    strings: ["frontend entwickler",],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
